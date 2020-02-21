@@ -1,0 +1,20 @@
+{
+  "messge": [
+    {
+      "incoming": true,
+      "message": "Halo helna"
+    },
+    {
+      "incoming": false,
+      "message": " Halo juga"
+    },
+    {
+      "incoming": true,
+      "message": " Jalan kuy"
+    },
+    {
+      "incoming": false,
+      "message": " Mager aku tuu"
+    }
+  ]
+}
